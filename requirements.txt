@@ -1,0 +1,7 @@
+gradio
+pytesseract
+PyPDF2
+openai
+pillow
+tesseract
+streamlit
