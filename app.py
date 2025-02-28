@@ -15,7 +15,7 @@ UPLOAD_FOLDER = "uploads"
 DB_PATH = "medical_reports.db"
 USER_DB_PATH = "user_credentials.db"
 NVIDIA_API_BASE_URL = "https://integrate.api.nvidia.com/v1"
-NVIDIA_API_KEY = ""
+NVIDIA_API_KEY = "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"
 
 # Create necessary directories
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
